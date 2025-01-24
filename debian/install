@@ -1,0 +1,6 @@
+opt/rocm-6.2.4/share
+opt/rocm-6.2.4/share/rocm
+opt/rocm-6.2.4/share/rocm/cmake
+opt/rocm-6.2.4/share/rocm/cmake/*
+opt/rocm-6.2.4/share/rocmcmakebuildtools/cmake/*
+opt/rocm-6.2.4/share/doc/rocm-cmake/*
